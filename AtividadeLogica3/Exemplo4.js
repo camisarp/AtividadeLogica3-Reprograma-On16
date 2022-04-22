@@ -12,6 +12,9 @@ function passingPairs(num){
 }
 passingPairs(0)
 
+
+
+
 //Utilizando o For
 
 // function passingPairsFor(i) {
@@ -37,7 +40,3 @@ passingPairs(0)
 // for (let i = 0; i <= 100; i += 2) {
 //     console.log(i);
 // }
-
-
-
-
